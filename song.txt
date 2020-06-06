@@ -25,3 +25,5 @@
 "Яву", "Яву", взял я на халяву!
 
 1-st feature line
+
+2-nd feature line
